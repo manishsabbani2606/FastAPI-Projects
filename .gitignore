@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.env
+fastapiproject/
+venv/
+
+# Node / React
+node_modules/
+build/
+dist/
+.env.local
+
+# Mac
+.DS_Store
